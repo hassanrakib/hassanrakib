@@ -1,15 +1,15 @@
-<h1 align="center">👋 Hey there! I'm Rakib Hassan</h1>
-<h3 align="center">JavaScript Developer | Passionate about solving everyday challenges with code</h3>
+<h1 align="center">👋 Hey There! I'm Rakib Hassan</h1>
+<h3 align="center">JavaScript Developer | Passionate About Solving Everyday Challenges with Code</h3>
 
-- 🚀 Currently shipping [Toward Goals [Plan Bold. Track Smart. Achieve More.]](https://towardgoals.vercel.app/)
+- 🚀 Currently Shipping [Toward Goals - Plan Bold. Track Smart. Achieve More.](https://towardgoals.vercel.app/)
 
-- 🎨 Toward Goals Frontend [👁️ code repository](https://github.com/hassanrakib/toward-goals-client)
+- 💻 Toward Goals Frontend [Code Repository](https://github.com/hassanrakib/toward-goals-client)
 
-- 🛠️ Toward Goals Backend [👁️ code repository](https://github.com/hassanrakib/toward-goals-server)
+- 🖧 Toward Goals Backend [Code Repository](https://github.com/hassanrakib/toward-goals-server)
 
-- 📚🚀 Reading and building with **JavaScript, React & Next.js**
+- 🏗️ Building with **React & Next.js**
 
-- 📫 Reach me at **mailrakibhassan@gmail.com**
+- 📫 Reach Me at **mailrakibhassan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

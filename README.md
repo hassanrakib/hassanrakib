@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there! I'm Rakib Hassan</h1>
-<h3 align="center">JavaScript Developer | Passionate solving everyday challenges with code</h3>
+<h3 align="center">JavaScript Developer | Passionate about solving everyday challenges with code</h3>
 
 - 🚀 Currently shipping [Toward Goals [Plan Bold. Track Smart. Achieve More.]](https://towardgoals.vercel.app/)
 

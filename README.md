@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey There! I'm Rakib Hassan</h1>
 <h3 align="center">JavaScript Developer | Passionate About Solving Everyday Challenges with Code</h3>
 
-- 🚀 Currently Shipping [Toward Goals - Plan Bold. Track Smart. Achieve More.](https://towardgoals.vercel.app/)
+- 🚀 Currently Shipping [Toward Goals | Plan Bold. Track Smart. Achieve More.](https://towardgoals.vercel.app/)
 
 - 💻 Toward Goals Frontend [Code Repository](https://github.com/hassanrakib/toward-goals-client)
 

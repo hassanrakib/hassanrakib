@@ -7,7 +7,7 @@
 
 - 🖧 Toward Goals Backend [Code Repository](https://github.com/hassanrakib/toward-goals-server)
 
-- 🏗️ Building with **React & Next.js**
+- 🏗️ Building with **Next.js & Express.js**
 
 - 📫 Reach Me at **mailrakibhassan@gmail.com**
 
